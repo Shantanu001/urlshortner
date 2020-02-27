@@ -22,7 +22,7 @@ class appRouter extends Component {
     console.log("data",val);
     axios
     .get(
-      "https://6jyi4w7nj5.execute-api.us-east-1.amazonaws.com/crontest",
+      "/crontest",
       {
         params: {
           url: val
