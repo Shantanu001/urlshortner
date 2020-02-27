@@ -49,7 +49,7 @@ class appRouter extends Component {
     return (
       
       <div class='container' >
-       <h2>URL SHORTENING SERVICE</h2>
+       <h2>URL SHORTENING SERVICES</h2>
        <Search
       placeholder="Paste URl here"
       enterButton="SHORTEN URL"
