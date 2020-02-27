@@ -1,15 +1,15 @@
 {
-  "main.css": "/Leus/static/css/main.61665ea0.chunk.css",
-  "main.js": "/Leus/static/js/main.3ce9a7f8.chunk.js",
-  "main.js.map": "/Leus/static/js/main.3ce9a7f8.chunk.js.map",
-  "runtime~main.js": "/Leus/static/js/runtime~main.aac457b8.js",
-  "runtime~main.js.map": "/Leus/static/js/runtime~main.aac457b8.js.map",
-  "static/css/2.5e37da77.chunk.css": "/Leus/static/css/2.5e37da77.chunk.css",
-  "static/js/2.58dc8b0b.chunk.js": "/Leus/static/js/2.58dc8b0b.chunk.js",
-  "static/js/2.58dc8b0b.chunk.js.map": "/Leus/static/js/2.58dc8b0b.chunk.js.map",
-  "index.html": "/Leus/index.html",
-  "precache-manifest.5ee2abe15ef33ae68593e78dcc49948a.js": "/Leus/precache-manifest.5ee2abe15ef33ae68593e78dcc49948a.js",
-  "service-worker.js": "/Leus/service-worker.js",
-  "static/css/2.5e37da77.chunk.css.map": "/Leus/static/css/2.5e37da77.chunk.css.map",
-  "static/css/main.61665ea0.chunk.css.map": "/Leus/static/css/main.61665ea0.chunk.css.map"
+  "main.css": "/urlshortner/static/css/main.61665ea0.chunk.css",
+  "main.js": "/urlshortner/static/js/main.0be72c62.chunk.js",
+  "main.js.map": "/urlshortner/static/js/main.0be72c62.chunk.js.map",
+  "runtime~main.js": "/urlshortner/static/js/runtime~main.ff3437f3.js",
+  "runtime~main.js.map": "/urlshortner/static/js/runtime~main.ff3437f3.js.map",
+  "static/css/2.5e37da77.chunk.css": "/urlshortner/static/css/2.5e37da77.chunk.css",
+  "static/js/2.b5a1f16b.chunk.js": "/urlshortner/static/js/2.b5a1f16b.chunk.js",
+  "static/js/2.b5a1f16b.chunk.js.map": "/urlshortner/static/js/2.b5a1f16b.chunk.js.map",
+  "index.html": "/urlshortner/index.html",
+  "precache-manifest.b0484a21ea614cba7ad904a237b7e373.js": "/urlshortner/precache-manifest.b0484a21ea614cba7ad904a237b7e373.js",
+  "service-worker.js": "/urlshortner/service-worker.js",
+  "static/css/2.5e37da77.chunk.css.map": "/urlshortner/static/css/2.5e37da77.chunk.css.map",
+  "static/css/main.61665ea0.chunk.css.map": "/urlshortner/static/css/main.61665ea0.chunk.css.map"
 }
