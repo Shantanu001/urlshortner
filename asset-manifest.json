@@ -1,14 +1,14 @@
 {
   "main.css": "/urlshortner/static/css/main.61665ea0.chunk.css",
-  "main.js": "/urlshortner/static/js/main.b067771a.chunk.js",
-  "main.js.map": "/urlshortner/static/js/main.b067771a.chunk.js.map",
+  "main.js": "/urlshortner/static/js/main.794b209c.chunk.js",
+  "main.js.map": "/urlshortner/static/js/main.794b209c.chunk.js.map",
   "runtime~main.js": "/urlshortner/static/js/runtime~main.ff3437f3.js",
   "runtime~main.js.map": "/urlshortner/static/js/runtime~main.ff3437f3.js.map",
   "static/css/2.5e37da77.chunk.css": "/urlshortner/static/css/2.5e37da77.chunk.css",
   "static/js/2.b5a1f16b.chunk.js": "/urlshortner/static/js/2.b5a1f16b.chunk.js",
   "static/js/2.b5a1f16b.chunk.js.map": "/urlshortner/static/js/2.b5a1f16b.chunk.js.map",
   "index.html": "/urlshortner/index.html",
-  "precache-manifest.00ec15d912206c4d1e56b2d25ad3c0fa.js": "/urlshortner/precache-manifest.00ec15d912206c4d1e56b2d25ad3c0fa.js",
+  "precache-manifest.21112e287dac028803b30a2765e8a28b.js": "/urlshortner/precache-manifest.21112e287dac028803b30a2765e8a28b.js",
   "service-worker.js": "/urlshortner/service-worker.js",
   "static/css/2.5e37da77.chunk.css.map": "/urlshortner/static/css/2.5e37da77.chunk.css.map",
   "static/css/main.61665ea0.chunk.css.map": "/urlshortner/static/css/main.61665ea0.chunk.css.map"
