@@ -22,7 +22,7 @@ class appRouter extends Component {
     console.log("data",val);
     axios
     .get(
-      "/crontest",
+      "https://cors-anywhere.herokuapp.com/https://6jyi4w7nj5.execute-api.us-east-1.amazonaws.com/crontest",
       {
         params: {
           url: val
@@ -49,7 +49,7 @@ class appRouter extends Component {
     return (
       
       <div class='container' >
-       <h2>URL SHORTENING SERVICE</h2>
+       <h2>URL SHORTENING SERVICES</h2>
        <Search
       placeholder="Paste URl here"
       enterButton="SHORTEN URL"
